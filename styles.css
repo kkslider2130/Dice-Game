@@ -1,0 +1,58 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+
+}
+.playerbox {
+  text-align: center;
+  display: inline-block;
+}
+
+img {
+width: 80%;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  color: #43CCA3;
+  font-size: 8rem;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+}
+
+h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #43CCA3;
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 70px;
+}
+
+p {
+  color: #4ECCA3;
+  font-family: Georgia, serif;
+  font-size: 2rem;
+}
+
+.roll-row{
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  font-size: 3rem;
+  text-align: center;
+  font-weight: bold;
+  color:#9C060C;
+  background-color: #43CCA3;
+  margin: auto;
+  margin-top: 40px;
+  height: 70px;
+  width: 160px;
+  cursor: pointer;
+  padding-top: 20px;
+  
+
+}
